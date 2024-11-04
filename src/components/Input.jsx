@@ -7,7 +7,7 @@ export default function Input({ label, invalid, ...props }) {
    labelClass += ' text-red-400';
    inputClasses += ' text-red-500 bg-red-100 border-red-300'
   }else {
-    labelClass += ' text-stone-300';
+    labelClass += ' text-stone-800';
     inputClasses += ' text-gray-700 bg-stone-300'
   }
 
